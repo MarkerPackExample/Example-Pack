@@ -78,6 +78,7 @@
          V     V        V       V      V        V      V -->
 		<POI MapID="29" xpos="-270.497" ypos="4.48668" zpos="665.773" type="ep.m.cog" GUID="tsf3Knf6IEu0DdGTQknvmQ=="/>
 		<POI MapID="29" xpos="-268.735" ypos="6.43824" zpos="677.971" type="ep.m.cog" GUID="NInPctgCaUG5Ric9werijA=="/>
+		<POI MapID="29" xpos="-268.735" ypos="6.43824" zpos="677.971" type="ep.m.t" GUID="NInPctgCaUG5Ric9aerijA=="/>
 	<!-- Every Trail starts with Trail and has at least 2 attributes (technically 'type' can be left out, but shouldn't be)
 	       |  'type' is the same as with markers
 		   |          'trailData' is a file path to the .trl file that should be used for this trail
